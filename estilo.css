@@ -2,7 +2,9 @@
     box-sizing: border-box;
     font-family: "New Amsterdam", sans-serif;
 }
-
+body {
+    background-color: rgb(230, 230, 255);
+}
 main {
     width: 1366px;
     height: 2000px;
